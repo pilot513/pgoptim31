@@ -1,1 +1,2 @@
-# pgoptim31
+# Курс PostgreSQL 3.1 Оптимизация
+
